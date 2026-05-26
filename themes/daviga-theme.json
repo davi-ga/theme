@@ -32,7 +32,7 @@
     "debugConsole.infoForeground": "#d1ad54",
     "debugConsole.warningForeground": "#ebcb8b",
     "debugConsole.errorForeground": "#bf616a",
-    "debugConsole.sourceForeground": "#616e88",    npx vsce package --allow-missing-repository && code --install-extension daviga-theme-0.0.1.vsix
+    "debugConsole.sourceForeground": "#616e88",
     "debugConsoleInputIcon.foreground": "#989898",
     "debugExceptionWidget.background": "#4c566a",
     "debugExceptionWidget.border": "#222222",
