@@ -1,0 +1,16 @@
+{
+  "name": "daviga-theme",
+  "displayName": "DaviGa Theme",
+  "version": "0.0.1",
+  "engines": { "vscode": "^1.0.0" },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DaviGa Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/daviga-theme.json"
+      }
+    ]
+  }
+}
