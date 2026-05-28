@@ -663,7 +663,7 @@
       "name": "Variable Parameter",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#f8f8f8"
+        "foreground": "#d08770"
       }
     },
     {
@@ -1450,5 +1450,12 @@
         "foreground": "#d1ad54"
       }
     }
-  ]
+  ],
+  "semanticTokenColors": {
+    "selfParameter": "#ebcb8b",
+    "clsParameter": "#ebcb8b",
+    "enumMember": "#b48ead",
+    "parameter": "#d08770",
+    "parameter.declaration": "#d08770"
+  }
 }
