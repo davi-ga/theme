@@ -24,7 +24,7 @@
     "charts.red": "#bf616a",
     "charts.blue": "#989898",
     "charts.yellow": "#ebcb8b",
-    "charts.orange": "#d08770",
+    "charts.orange": "#ffd93d",
     "charts.green": "#f8f8f8",
     "charts.purple": "#b48ead",
     "charts.foreground": "#f8f8f8",
@@ -151,8 +151,8 @@
     "inputValidation.errorBorder": "#bf616a",
     "inputValidation.infoBackground": "#989898",
     "inputValidation.infoBorder": "#989898",
-    "inputValidation.warningBackground": "#d08770",
-    "inputValidation.warningBorder": "#d08770",
+    "inputValidation.warningBackground": "#ffd93d",
+    "inputValidation.warningBorder": "#ffd93d",
     "keybindingLabel.background": "#d1ad54",
     "keybindingLabel.foreground": "#222222",
     "list.activeSelectionBackground": "#d1ad54",
@@ -663,7 +663,7 @@
       "name": "Variable Parameter",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#d08770"
+        "foreground": "#ffd93d"
       }
     },
     {
@@ -717,7 +717,7 @@
         "source.css keyword.control.at-rule.media punctuation.definition.keyword"
       ],
       "settings": {
-        "foreground": "#D08770"
+        "foreground": "#ffd93d"
       }
     },
     {
@@ -917,7 +917,7 @@
       "name": "[Java] Storage Type Annotation",
       "scope": "source.java storage.type.annotation",
       "settings": {
-        "foreground": "#D08770"
+        "foreground": "#ffd93d"
       }
     },
     {
@@ -942,7 +942,7 @@
         "source.js meta.decorator entity.name.function"
       ],
       "settings": {
-        "foreground": "#D08770"
+        "foreground": "#ffd93d"
       }
     },
     {
@@ -1031,7 +1031,7 @@
       "name": "[HTML] Constant Other Inline-Data",
       "scope": "text.html.basic constant.other.inline-data",
       "settings": {
-        "foreground": "#D08770",
+        "foreground": "#ffd93d",
         "fontStyle": "italic"
       }
     },
@@ -1439,7 +1439,7 @@
         "text.xml string.unquoted.cdata punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#D08770",
+        "foreground": "#ffd93d",
         "fontStyle": "italic"
       }
     },
