@@ -1,0 +1,15 @@
+theme:
+  # Gold Standard Dark — based on the daviga VS Code theme
+  background-color: 0 0 13
+  primary-color: 43 58 57
+  positive-color: 0 0 97
+  negative-color: 354 42 56
+  contrast-multiplier: 1.1
+
+  disable-picker: false
+  presets:
+    gold-standard-dark:
+      background-color: 0 0 13
+      primary-color: 43 58 57
+      positive-color: 0 0 97
+      negative-color: 354 42 56
